@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News Feed</string>
+    <string name="search_hint">Search News By Topic</string>
+    <string name="no_internet">No Internet Connection!!!</string>
+    <string name="not_found">News Not Found</string>
+    <string name="empty"/>
+</resources>
